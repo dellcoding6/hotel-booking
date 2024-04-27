@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #app {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input, button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #message {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: green;
+  }
